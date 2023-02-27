@@ -12,3 +12,22 @@
     margin-top: 35px;
     margin-left: 5px;
 }
+
+.autore {
+    font-size: 15px;
+    color: rgb(101, 100, 100);
+}
+
+.data {
+    font-size: 10px;
+    color: rgb(101, 100, 100);
+}
+
+figcaption {
+    font-size: 10px;
+}
+
+.evidenziatore {
+    display: inline;
+    background-color: yellow;
+}
