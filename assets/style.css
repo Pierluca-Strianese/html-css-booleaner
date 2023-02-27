@@ -24,7 +24,7 @@
 }
 
 figcaption {
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .evidenziatore {
@@ -38,19 +38,18 @@ figcaption {
     width: 100%;
   }
   
-  #customers td, #customers th {
-    padding: 8px;
+  #customers td {
+    height: 50px;
   }
   
   #customers tr:nth-child(even){background-color: #b1e5f2;}
 
   
   #customers th {
-    padding-top: 12px;
-    padding-bottom: 12px;
     text-align: left;
     background-color: #20a9e5;
     color: white;
+    height: 20px;
   }
 
   .collegamenti {
@@ -77,3 +76,13 @@ figcaption {
     margin-top: 8px;
     margin-bottom: 8px;
   }
+
+  footer {
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .firma {
+    font-family: 'Zeyada', cursive, Arial, sans-serif;
+    color: navy;
+}
