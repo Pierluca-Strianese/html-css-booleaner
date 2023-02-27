@@ -31,3 +31,13 @@ figcaption {
     display: inline;
     background-color: yellow;
 }
+
+th {
+    table-layout: fixed;
+    width: 300px;
+    text-align: left;
+}
+
+tbody {
+    height: 50px;
+}
