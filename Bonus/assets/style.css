@@ -1,4 +1,4 @@
-.header {
+header {
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
     background-repeat: repeat-x;
@@ -86,4 +86,14 @@ figcaption {
   .firma {
     font-family: 'Zeyada', cursive, Arial, sans-serif;
     color: navy;
+} 
+
+.container {
+  width: 80%;
+  margin: auto;
+
+}
+
+.img {
+  height: 300px;
 }
