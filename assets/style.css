@@ -43,7 +43,9 @@ figcaption {
     width: 40px;
   }
   
-  #customers tr:nth-child(odd){background-color: #b1e5f2;}
+  #customers tr:nth-child(odd){
+    background-color: #b1e5f2;
+  }
 
   
   #customers th {
@@ -53,12 +55,12 @@ figcaption {
     height: 20px;
   }
 
-  .collegamenti {
+.collegamenti {
     font-size: 15px;
     color: rgb(101, 100, 100);
   }
 
-  .collegamento1 {
+.collegamento1 {
     background-image: url("../img/monitor.jpg");
     background-size: cover;
     height: 150px;
@@ -68,7 +70,7 @@ figcaption {
     margin-bottom: 8px;
   }
 
-  .collegamento2 {
+.collegamento2 {
     background-image: url("../img/graph.jpg");
     background-size: cover;
     height: 150px;
@@ -78,12 +80,12 @@ figcaption {
     margin-bottom: 8px;
   }
 
-  footer {
+footer {
     text-align: center;
     font-size: 13px;
   }
 
-  .firma {
+.firma {
     font-family: 'Zeyada', cursive, Arial, sans-serif;
     color: navy;
 }
