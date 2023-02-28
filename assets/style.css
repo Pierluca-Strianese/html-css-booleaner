@@ -40,9 +40,10 @@ figcaption {
   
   #customers td {
     height: 50px;
+    width: 40px;
   }
   
-  #customers tr:nth-child(even){background-color: #b1e5f2;}
+  #customers tr:nth-child(odd){background-color: #b1e5f2;}
 
   
   #customers th {
